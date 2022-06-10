@@ -1,3 +1,6 @@
+##virtualbox
+
+```
 ```
 sudo apt-get update
 sudo apt-get upgrade
@@ -17,4 +20,7 @@ ls
 ```
 ```
 sudo apt install vim
+```
+```
+sudo vim 
 ```
